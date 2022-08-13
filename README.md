@@ -14,6 +14,7 @@ was going to create the details page but couldn't because of time given.
 I know i'm still learning and i can learn so much wit you. Hope this gets to you.
 Ps. Abiodun Osagie Olise
 Whatsapp - +2349077601790
+Email  - abiodunosagie8@gmail.com
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
